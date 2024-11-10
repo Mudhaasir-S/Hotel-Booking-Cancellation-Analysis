@@ -12,6 +12,7 @@ The analysis includes visualizations such as bar charts and pie charts based on 
 
 **2. Hotel Type Analysis** (Pie Chart):
    * Represents the total bookings for each hotel type (City Hotel and Resort Hotel).
+![Hotel Type Analysis](https://github.com/user-attachments/assets/a4f686d2-3e0b-4154-ab2e-7c8ad017904f)
 
 **3. Room Preference Analysis** (Bar Chart):
    * Displays room status (Desired vs. Un-Desired) with canceled booking counts for each category.
