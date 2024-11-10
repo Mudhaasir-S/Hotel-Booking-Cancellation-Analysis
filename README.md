@@ -10,6 +10,9 @@ The analysis includes visualizations such as bar charts and pie charts based on 
 **1. Guest Type Analysis** (Bar Chart):
    * Shows the total number of guests and the count of canceled bookings for each guest type (Couples, Families, Singles).
 
+![Guest Type Analysis](https://github.com/user-attachments/assets/7ac279a4-ff9c-4ca5-ac66-2c9caedf6c8a)
+
+
 **2. Hotel Type Analysis** (Pie Chart):
    * Represents the total bookings for each hotel type (City Hotel and Resort Hotel).
 
