@@ -54,3 +54,11 @@ The analysis includes visualizations such as bar charts and pie charts based on 
 This project can serve as a valuable tool for hotel managers, data analysts, or students interested in exploring booking and cancellation behaviors. The insights gained can be used to inform marketing, optimize resource allocation, and improve customer satisfaction.
 
 ![Hotel Booking Cancellation Analysis](https://github.com/user-attachments/assets/35ae35e8-dc9e-4c20-9edc-8ed3a66b42a9)
+
+
+### Contact
+
+Feel free to reach out if you have any questions or would like to connect!
+
+- **LinkedIn**: https://www.linkedin.com/in/mudhassir-s/
+- **Email**: mudhassirofficial@gmail.com
