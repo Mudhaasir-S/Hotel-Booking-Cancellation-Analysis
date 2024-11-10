@@ -56,7 +56,7 @@ This project can serve as a valuable tool for hotel managers, data analysts, or 
 ![Hotel Booking Cancellation Analysis](https://github.com/user-attachments/assets/35ae35e8-dc9e-4c20-9edc-8ed3a66b42a9)
 
 
-### Contact
+## Contact
 
 Feel free to reach out if you have any questions or would like to connect!
 
