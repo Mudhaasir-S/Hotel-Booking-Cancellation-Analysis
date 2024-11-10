@@ -21,6 +21,9 @@ The analysis includes visualizations such as bar charts and pie charts based on 
 **3. Room Preference Analysis** (Bar Chart):
    * Displays room status (Desired vs. Un-Desired) with canceled booking counts for each category.
 
+![Room Preference Analysis](https://github.com/user-attachments/assets/52886463-3b7c-44fd-a9a8-661d65e9c7c5)
+
+
 **4. Cancellation by Hotel Type** (Pie Chart):
    * Compares the total cancellations between City Hotel and Resort Hotel.
 
