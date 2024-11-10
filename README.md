@@ -48,8 +48,10 @@ The analysis includes visualizations such as bar charts and pie charts based on 
 
 * **Monthly Trends:** Identifies seasonal variations in bookings and cancellations, providing a better understanding of peak and off-peak periods.
 
-![Hotel Booking Cancellation Analysis Project](https://github.com/user-attachments/assets/5a65697e-64b6-49d7-bd5e-9e66733e73c2)
 
 
 ### Usage
 This project can serve as a valuable tool for hotel managers, data analysts, or students interested in exploring booking and cancellation behaviors. The insights gained can be used to inform marketing, optimize resource allocation, and improve customer satisfaction.
+
+![Hotel Booking Cancellation Analysis Project](https://github.com/user-attachments/assets/5ad2f82a-7d8b-4c4e-9976-ce0b8064a268)
+
