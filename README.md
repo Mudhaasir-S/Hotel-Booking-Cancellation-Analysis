@@ -27,8 +27,14 @@ The analysis includes visualizations such as bar charts and pie charts based on 
 **4. Cancellation by Hotel Type** (Pie Chart):
    * Compares the total cancellations between City Hotel and Resort Hotel.
 
+![Cancellation by Hotel Type](https://github.com/user-attachments/assets/78e5307a-499c-40bc-b0cb-f489b4631c16)
+
+
 **5. Monthly Cancellation Analysis** (Pie Chart):
    * Breaks down the total guests and canceled bookings by month, showing trends across the year.
+
+![Monthly Cancellation Analysis](https://github.com/user-attachments/assets/f47e7917-9941-48ff-a19b-8da4406ccf38)
+
 
 
 ### Key Insights
