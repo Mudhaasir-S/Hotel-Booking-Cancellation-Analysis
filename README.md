@@ -10,7 +10,7 @@ The analysis includes visualizations such as bar charts and pie charts based on 
 **1. Guest Type Analysis** (Bar Chart):
    * Shows the total number of guests and the count of canceled bookings for each guest type (Couples, Families, Singles).
 
-![Guest Type Analysis](https://github.com/user-attachments/assets/7ac279a4-ff9c-4ca5-ac66-2c9caedf6c8a)
+![Guest Type Analysis](https://github.com/user-attachments/assets/468709bf-4e73-4e05-ad74-1d69a28bc7a6)
 
 
 **2. Hotel Type Analysis** (Pie Chart):
@@ -18,10 +18,11 @@ The analysis includes visualizations such as bar charts and pie charts based on 
 
 ![Hotel Type Analysis](https://github.com/user-attachments/assets/a4f686d2-3e0b-4154-ab2e-7c8ad017904f)
 
+
 **3. Room Preference Analysis** (Bar Chart):
    * Displays room status (Desired vs. Un-Desired) with canceled booking counts for each category.
 
-![Room Preference Analysis](https://github.com/user-attachments/assets/52886463-3b7c-44fd-a9a8-661d65e9c7c5)
+![Room Preference Analysis](https://github.com/user-attachments/assets/d63d7d63-45bb-4557-bac0-a4723b39c72c)
 
 
 **4. Cancellation by Hotel Type** (Pie Chart):
@@ -33,7 +34,7 @@ The analysis includes visualizations such as bar charts and pie charts based on 
 **5. Monthly Cancellation Analysis** (Pie Chart):
    * Breaks down the total guests and canceled bookings by month, showing trends across the year.
 
-![Monthly Cancellation Analysis](https://github.com/user-attachments/assets/f47e7917-9941-48ff-a19b-8da4406ccf38)
+![Monthly Cancellation Analysis](https://github.com/user-attachments/assets/f27b89a5-9b8d-4495-9689-9c77f130da5e)
 
 
 
